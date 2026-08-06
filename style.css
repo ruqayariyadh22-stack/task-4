@@ -19,7 +19,7 @@
     --progress-bg: #eee4d7;
 }
 
-/* Dark Theme */
+
 body.dark {
     --bg: #1a1815;
     --card: rgba(45, 42, 38, 0.92);
